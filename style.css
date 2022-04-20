@@ -164,7 +164,7 @@ a:hover {
 }
 
 .d-bloc .panel {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, .7);
 }
 
 .d-bloc .panel button:hover {
@@ -778,13 +778,13 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #d65c24;
+    background: #6b4c3e;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #bebebe!important;
+    background: #c45e5e!important;
+    color: #d4d4d4!important;
 }
 
 .ltc-white {
